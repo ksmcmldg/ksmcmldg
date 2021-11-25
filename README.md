@@ -85,7 +85,7 @@
             src="https://www.pngkit.com/png/full/808-8081482_solidworks-logo-black-and-white-johns-hopkins-logo.png" 
             alt="solidworks" width="100" height="40" title="solidworks"/> </a> <a height="40"/> </a>
             
-<img src="https://raw.githubusercontent.com/donno2048/donno2048/dist/snake.svg">
+<img src="https://raw.githubusercontent.com/ksmcmldg/ksmcmldg/dist/snake.svg">
 </p>
 </p>
 </p>
