@@ -90,6 +90,5 @@
 </p>
 </p>
 
-![snake gif](https://github.com/ksmcmldg/ksmcmldg/blob/output/github-contribution-grid-snake.gif)
 
    
