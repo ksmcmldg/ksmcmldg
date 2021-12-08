@@ -65,7 +65,7 @@
             alt="javascript" width="40" height="40" title="JavaScript"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img 
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-            alt="linux" width="40" height="40" title="linux"/> </a>
+            alt="linuX" width="40" height="40" title="linux"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img 
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
             alt="nodejs" width="40" height="40" title="nodejs"/> </a> 
